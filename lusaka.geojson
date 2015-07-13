@@ -1,0 +1,28 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Anglican Cathedral of the Holy Cross", "Type": "Church" }, "geometry": { "type": "Point", "coordinates": [ 28.303264805302248, -15.418746848335646 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Barclays Head Office", "Type": "Commercial" }, "geometry": { "type": "Point", "coordinates": [ 28.303088092822197, -15.413551037410681 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Lusaka Girls Primary", "Type": "School" }, "geometry": { "type": "Point", "coordinates": [ 28.305067272598805, -15.414956474495909 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Jacaranda Basic School", "Type": "School" }, "geometry": { "type": "Point", "coordinates": [ 28.299721720077155, -15.415799732184475 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Banc ABC", "Type": "Bank" }, "geometry": { "type": "Point", "coordinates": [ 28.300667131845444, -15.418934235810283 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "St. Ignatius Parish", "Type": "Church" }, "geometry": { "type": "Point", "coordinates": [ 28.298873500172885, -15.412886645661755 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Independenc Stadium", "Type": "Athletic" }, "geometry": { "type": "Point", "coordinates": [ 28.272879610798196, -15.369463665000422 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Be It Hospital", "Type": "Hospital" }, "geometry": { "type": "Point", "coordinates": [ 28.278932658717679, -15.364955126851092 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": null, "Type": null }, "geometry": { "type": "Point", "coordinates": [ 28.253959305325317, -15.358663980471416 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Levy Junction", "Type": "Commercial" }, "geometry": { "type": "Point", "coordinates": [ 28.285505118321584, -15.413666315769349 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "City Market", "Type": "Commercial" }, "geometry": { "type": "Point", "coordinates": [ 28.276050782331843, -15.420581451448417 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Barclays Bank", "Type": "Bank" }, "geometry": { "type": "Point", "coordinates": [ 28.277631839507812, -15.422105584895988 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "University of Zambia", "Type": "School" }, "geometry": { "type": "Point", "coordinates": [ 28.326307642432404, -15.397032251231813 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Chianama Hills Hospital", "Type": "Hospital" }, "geometry": { "type": "Point", "coordinates": [ 28.357319194577755, -15.389181287876612 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "University Teaching Hospital", "Type": "Hospital" }, "geometry": { "type": "Point", "coordinates": [ 28.313889449779023, -15.431311318222752 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Lake Road School", "Type": "School" }, "geometry": { "type": "Point", "coordinates": [ 28.354895287094671, -15.437352071268586 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "St. Mary's Secondary School", "Type": "School" }, "geometry": { "type": "Point", "coordinates": [ 28.344237806484344, -15.432332243444884 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Woodlands Stadium", "Type": "Athletic" }, "geometry": { "type": "Point", "coordinates": [ 28.346863562576743, -15.444997655184689 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Muyoma School", "Type": "School" }, "geometry": { "type": "Point", "coordinates": [ 28.341766506632663, -15.452141256318415 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Timothy Manekatwe School", "Type": "School" }, "geometry": { "type": "Point", "coordinates": [ 28.341303137910476, -15.4449590411245 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Chilenga Primary School", "Type": "School" }, "geometry": { "type": "Point", "coordinates": [ 28.335240730461848, -15.443144180295928 ] } }
+]
+}
